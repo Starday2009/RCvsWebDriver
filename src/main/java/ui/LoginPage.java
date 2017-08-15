@@ -11,7 +11,7 @@ public class LoginPage {
   }
 
         public LoginPage open() {
-       driver.get("https://qa-interviewer.herokuapp.com/");
+       driver.get("https://habrahabr.ru/post/151715/");
         return this;
     }
 
